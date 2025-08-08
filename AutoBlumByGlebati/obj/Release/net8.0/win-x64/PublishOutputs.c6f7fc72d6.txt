@@ -1,0 +1,2 @@
+C:\Users\glebg\source\repos\AutoBlumByGlebati\AutoBlumByGlebati\bin\Release\net8.0\publish\win-x64\AutoBlumByGlebati.pdb
+C:\Users\glebg\source\repos\AutoBlumByGlebati\AutoBlumByGlebati\bin\Release\net8.0\publish\win-x64\AutoBlumByGlebati.exe

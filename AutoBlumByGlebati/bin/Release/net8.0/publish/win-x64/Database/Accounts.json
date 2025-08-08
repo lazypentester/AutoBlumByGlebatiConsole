@@ -1,0 +1,28 @@
+﻿[
+  {
+  	"ProfileNumber": "",
+    "Id": "aa28b64b-526d-41a7-a688-ff8880a1df04",
+    "Username": "glebgolubov",
+    "PhoneNumber": "+380509516537",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+    "AuthTelegramData": "",
+    "AuthBlumAccessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJoYXNfZ3Vlc3QiOmZhbHNlLCJ0eXBlIjoiQUNDRVNTIiwiaXNzIjoiYmx1bSIsInN1YiI6ImFhMjhiNjRiLTUyNmQtNDFhNy1hNjg4LWZmODg4MGExZGYwNCIsImV4cCI6MTcyOTgwNDkzNCwiaWF0IjoxNzI5ODAxMzM0fQ.8jDrfGkoQ-0KFNMGK9tzHlxiWRXcQQ3bEnYTcJ6x6A4",
+    "AuthBlumRefreshToken": "",
+    "BlumPointsBalance": 2072,
+    "Proxy": "",
+    "IsEnabled": true
+  },
+  {
+  	"ProfileNumber": "",
+    "Id": "76b7fac6-7130-40b2-803f-eeec5f4b90a9",
+    "Username": "greendevold",
+    "PhoneNumber": "+380685231247",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0",
+    "AuthTelegramData": "",
+    "AuthBlumAccessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJoYXNfZ3Vlc3QiOmZhbHNlLCJ0eXBlIjoiQUNDRVNTIiwiaXNzIjoiYmx1bSIsInN1YiI6Ijc2YjdmYWM2LTcxMzAtNDBiMi04MDNmLWVlZWM1ZjRiOTBhOSIsImV4cCI6MTcyOTgwNDk3OCwiaWF0IjoxNzI5ODAxMzc4fQ.PIaJfVQV41yTPSoKtXzDkEWsIOJkg4U6olkRf25hCp0",
+    "AuthBlumRefreshToken": "",
+    "BlumPointsBalance": 621.6,
+    "Proxy": "31.42.120.121:51523@golubovgleb:aS7mBqX7mL",
+    "IsEnabled": true
+  }
+]

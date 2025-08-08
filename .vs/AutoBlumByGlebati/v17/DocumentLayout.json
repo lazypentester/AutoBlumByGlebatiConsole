@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\glebg\\source\\repos\\AutoBlumByGlebati\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{949BF282-4D9C-4489-8A73-00EE20BCC635}|AutoBlumByGlebati\\AutoBlumByGlebati.csproj|c:\\users\\glebg\\source\\repos\\autoblumbyglebati\\autoblumbyglebati\\tools\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{949BF282-4D9C-4489-8A73-00EE20BCC635}|AutoBlumByGlebati\\AutoBlumByGlebati.csproj|solutionrelative:autoblumbyglebati\\tools\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\glebg\\source\\repos\\AutoBlumByGlebati\\AutoBlumByGlebati\\Tools\\Logger.cs",
+              "RelativeDocumentMoniker": "AutoBlumByGlebati\\Tools\\Logger.cs",
+              "ToolTip": "C:\\Users\\glebg\\source\\repos\\AutoBlumByGlebati\\AutoBlumByGlebati\\Tools\\Logger.cs",
+              "RelativeToolTip": "AutoBlumByGlebati\\Tools\\Logger.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T17:00:56.348Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

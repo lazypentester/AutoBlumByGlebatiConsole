@@ -1,0 +1,15 @@
+﻿[
+  {
+    "ProfileNumber": "14",
+    "Id": "d77d7137-79dc-40ac-b12d-3de3edcae2e6",
+    "Username": "mikkibraun",
+    "PhoneNumber": "+4552696169",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.6668.101 Safari/537.36",
+    "AuthTelegramData": "user=%7B%22id%22%3A7583285387%2C%22first_name%22%3A%22Mikki%22%2C%22last_name%22%3A%22Braun%22%2C%22language_code%22%3A%22ru%22%2C%22allows_write_to_pm%22%3Atrue%2C%22photo_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Fi%5C%2Fuserpic%5C%2F320%5C%2FN7ilTSSHgHGdTmYNcODzABBT6Y2FrB7czOq-74xAa1oDRmUhB6Fr5IAOgecFowDG.svg%22%7D&chat_instance=-9142165707543099491&chat_type=sender&auth_date=1732655523&signature=9kVI74G-GttRRNDA0Ku22HXwSOy6jm0GLU29yVXPNcwjnUqSsNeE8CjfSFeDnK_cnrf-OQIyws0aohhSeCziDQ&hash=6b68cbb8528b39610f8264f74680a7f21607e3fb32547aa3d0d793a39984e35a",
+    "AuthBlumAccessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJoYXNfZ3Vlc3QiOmZhbHNlLCJ0eXBlIjoiQUNDRVNTIiwiaXNzIjoiYmx1bSIsInN1YiI6ImQ3N2Q3MTM3LTc5ZGMtNDBhYy1iMTJkLTNkZTNlZGNhZTJlNiIsImV4cCI6MTczMzM2MjM0MSwiaWF0IjoxNzMzMzU4NzQxfQ.DOL_1BLS8aHpYlWcB62eLuYCADhv8qpJEdO8fK_EGo4",
+    "AuthBlumRefreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJoYXNfZ3Vlc3QiOmZhbHNlLCJ0eXBlIjoiUkVGUkVTSCIsImlzcyI6ImJsdW0iLCJzdWIiOiJkNzdkNzEzNy03OWRjLTQwYWMtYjEyZC0zZGUzZWRjYWUyZTYiLCJleHAiOjE3MzM0NDUxNDEsImlhdCI6MTczMzM1ODc0MX0.g_miBpwthp0x_7KY5hKC1qrjfkw4D-q1OL-kXom2gSE",
+    "BlumPointsBalance": 18691.56,
+    "Proxy": "user110751:4e7ht9@89.42.90.40:7379",
+    "IsEnabled": true
+  }
+]

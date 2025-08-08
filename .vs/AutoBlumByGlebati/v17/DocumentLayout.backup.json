@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\glebg\\source\\repos\\AutoBlumByGlebati\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{949BF282-4D9C-4489-8A73-00EE20BCC635}|AutoBlumByGlebati\\AutoBlumByGlebati.csproj|c:\\users\\glebg\\source\\repos\\autoblumbyglebati\\autoblumbyglebati\\core\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{949BF282-4D9C-4489-8A73-00EE20BCC635}|AutoBlumByGlebati\\AutoBlumByGlebati.csproj|solutionrelative:autoblumbyglebati\\core\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{949BF282-4D9C-4489-8A73-00EE20BCC635}|AutoBlumByGlebati\\AutoBlumByGlebati.csproj|c:\\users\\glebg\\source\\repos\\autoblumbyglebati\\autoblumbyglebati\\services\\blumservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{949BF282-4D9C-4489-8A73-00EE20BCC635}|AutoBlumByGlebati\\AutoBlumByGlebati.csproj|solutionrelative:autoblumbyglebati\\services\\blumservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{949BF282-4D9C-4489-8A73-00EE20BCC635}|AutoBlumByGlebati\\AutoBlumByGlebati.csproj|c:\\users\\glebg\\source\\repos\\autoblumbyglebati\\autoblumbyglebati\\core\\blumbotapi\\balance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{949BF282-4D9C-4489-8A73-00EE20BCC635}|AutoBlumByGlebati\\AutoBlumByGlebati.csproj|solutionrelative:autoblumbyglebati\\core\\blumbotapi\\balance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Balance.cs",
+              "DocumentMoniker": "C:\\Users\\glebg\\source\\repos\\AutoBlumByGlebati\\AutoBlumByGlebati\\Core\\BlumBotApi\\Balance.cs",
+              "RelativeDocumentMoniker": "AutoBlumByGlebati\\Core\\BlumBotApi\\Balance.cs",
+              "ToolTip": "C:\\Users\\glebg\\source\\repos\\AutoBlumByGlebati\\AutoBlumByGlebati\\Core\\BlumBotApi\\Balance.cs",
+              "RelativeToolTip": "AutoBlumByGlebati\\Core\\BlumBotApi\\Balance.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBwAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T17:00:34.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\glebg\\source\\repos\\AutoBlumByGlebati\\AutoBlumByGlebati\\Core\\Client.cs",
+              "RelativeDocumentMoniker": "AutoBlumByGlebati\\Core\\Client.cs",
+              "ToolTip": "C:\\Users\\glebg\\source\\repos\\AutoBlumByGlebati\\AutoBlumByGlebati\\Core\\Client.cs",
+              "RelativeToolTip": "AutoBlumByGlebati\\Core\\Client.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAowJAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T16:16:33.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlumService.cs",
+              "DocumentMoniker": "C:\\Users\\glebg\\source\\repos\\AutoBlumByGlebati\\AutoBlumByGlebati\\Services\\BlumService.cs",
+              "RelativeDocumentMoniker": "AutoBlumByGlebati\\Services\\BlumService.cs",
+              "ToolTip": "C:\\Users\\glebg\\source\\repos\\AutoBlumByGlebati\\AutoBlumByGlebati\\Services\\BlumService.cs",
+              "RelativeToolTip": "AutoBlumByGlebati\\Services\\BlumService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAIAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:48:15.662Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
